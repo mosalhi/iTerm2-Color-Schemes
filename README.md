@@ -491,6 +491,19 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/solarized_dark.png)
 
+###Solarized Dark - Patched###
+
+Some applications assume the ANSI color code 8 is a gray color. Solarized treats
+this code as equal to the background. This theme is for people who prefer the
+former. See issues [#59][issue-59], [#62][issue-62], and [#63][issue-63] for
+more information.
+
+![Screenshot](screenshots/solarized_dark_patched.png)
+
+[issue-59]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/59
+[issue-62]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/62
+[issue-63]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/63
+
 ###Solarized Dark Higher Contrast###
 
 ![Screenshot](screenshots/solarized_dark_higher_contrast.png)
@@ -582,6 +595,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Twilight###
 
 ![Screenshot](screenshots/twilight.png)
+
+###Ubuntu###
+
+![Screenshot](screenshots/ubuntu.png)
 
 ###Urple###
 
@@ -771,6 +788,8 @@ The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on
 The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 
 The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
+
+The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
